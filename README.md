@@ -1,15 +1,12 @@
+
+
 Included Files:
 - assignment8pyTests.py
-- assignment9pyTests.py
-- assignment10pyTests.py
-- assignment11pyTests.py
-- assignment12pyTests.py
-- finalExamTests.py
+- 	Note: Only one test file included to prevent future cheating on assignments
 - ui.py
 - globals.py
 - output.py
 - README.md
-- Instructional Video
 
 
 Plugin Requirements: 
